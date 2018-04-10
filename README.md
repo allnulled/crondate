@@ -50,7 +50,7 @@ var crondate3 = CronDate({
 crondate1.set({
   day: 25,
   month: 12,
-  hour: *,
+  hour: "*",
   minute: 0
 });
 ```
