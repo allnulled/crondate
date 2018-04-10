@@ -14,7 +14,7 @@ A cron-friendly date is a date representation that fits the type of date represe
 
 **CronDate** was made in order to be combined with other tools, or directly with cron itself. So, in a few words, to ease the management of dates that follow the cron format.
 
-Note: there are different implementations of cron. We are going
+Note: there are different implementations of cron. We use as reference the standard cron syntax.
 
 # 2. Installation
 
