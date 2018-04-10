@@ -22,7 +22,7 @@ You can install CronDate from NPM. From your command-line, type:
 
 ~$ `npm install crondate`
 
-# 3. Usage
+# 3. Usage 
 
 #### 1) Import the module from your code:
 
